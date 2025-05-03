@@ -18,4 +18,5 @@ Planned Features:
 - Search System & Fault Detection.
 - Production Traveller Revision Functionality.
 - Exporting Functionality to external programs for futher logistical logging and sorting.
+- Support for a Sign-Up Functionality.
 
