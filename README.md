@@ -11,6 +11,9 @@ The system can currently provide:
 - A Selection of Production Travellers for an end user to select from.
 - A clean and professional User Interface which is simple to use for all users.
 - A Traveller Log system that displays content that was recently uploaded into the database.
-
-    
+          
+Planned Features:
+- Search System & Fault Detection.
+- Production Traveller Revision Functionality.
+- Exporting Functionality to external programs for futher logistical logging and sorting.
 
