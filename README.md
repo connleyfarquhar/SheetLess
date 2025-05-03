@@ -3,7 +3,7 @@
 ##### A Digital Production Traveller Management System     
       
 This Repository contains my project for the Graded Unit at Dundee & Angus College to work towards my **Higher National Diploma**, The Project consisted of a Planning Phase, Development & Testing Phase and finally an Evaluation Phase where i documented my development processes with recommendations on where to improve on in future projects.        
-Initially, this project was to be created for the company MEP Technologies who were my client throughout the project giving me a real-world insight into project management.     
+Initially, this project was  created for the company MEP Technologies who were my client throughout the project giving me a real-world insight into project management.     
         
 ###### *This repository contains an alternative version of the project's source code and full assets, with all MEP Technologies intellectual property and confidential information removed.*     
 
