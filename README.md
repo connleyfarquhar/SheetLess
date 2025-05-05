@@ -1,5 +1,4 @@
-![Logo](https://raw.githubusercontent.com/connleyfarquhar/SheetLess/main/Logo%20Concepts/DTS.png)         
-# SheetLess         
+![Logo](https://raw.githubusercontent.com/connleyfarquhar/SheetLess/main/Logo%20Concepts/DTS.png)                  
 ###### HND Software Development Graded Unit 2 Project | Graded Unit Module
 ##### A Digital Production Traveller Management System     
       
