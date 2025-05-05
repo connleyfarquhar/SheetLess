@@ -20,4 +20,5 @@ Planned Features:
 - Exporting Functionality to external programs for futher logistical logging and sorting.
 - Support for a Sign-Up Functionality.
 - Initials Slider for Auto-fill in a Traveller Template.
+- Light & Dark Mode Functionality with Slider.
 
